@@ -2,9 +2,6 @@ import sys
 import os
 from colorama import Fore, Style, init as colorama_init
 
-# Windows (cmd)
-# py -m pip install -U colorama
-
 import random
 
 import time
